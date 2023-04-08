@@ -1,0 +1,80 @@
+body {
+  background-color: #ffffff;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 800px;
+  margin: 0px auto;
+  padding-top: 50px;
+  display: flex;
+}
+.gambar {
+  width: 50%;
+}
+.img-thumb {
+  width: 100%;
+}
+.card-wraper {
+  width: 50%;
+}
+.card {
+  border-style: solid;
+  border-color: #f0f0f0;
+  border-width: 2px;
+  text-align: center;
+  background-color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.logo {
+  width: 180px;
+}
+.form {
+  margin: 30px;
+}
+.input {
+  height: 30px;
+  width: 250px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 4px;
+  margin-top: 10px;
+}
+.btn {
+  background-color: #1877f2;
+  border: 0px solid transparent;
+  margin-top: 20px;
+  height: 30px;
+  width: 250px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.login-width {
+  color: #1877f2;
+}
+.forgot {
+  color: gray;
+  text-decoration: none;
+  font-size: 12px;
+}
+.sign {
+  color: #1877f2;
+  text-decoration: none;
+}
+.app {
+  display: flex;
+  justify-content: center;
+  margin-right: 10px;
+}
+.get {
+  text-align: center;
+}
+.footer {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
